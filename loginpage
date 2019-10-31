@@ -33,7 +33,7 @@
   }
  </style>
  <body>
-  <form class="form-horizontal" role="form" action="loginprocess.php" method="post">
+  <form class="form-horizontal" role="form" action="login_process.php" method="post">
  <div class="header">
   <img src="img/logo.png" width="200" height="50" />
   <div >Puppy Pads</div>
